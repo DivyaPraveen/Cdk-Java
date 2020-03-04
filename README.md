@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your CDK Java project!
 
 You should explore the contents of this project. It demonstrates a CDK app with an instance of a stack (`CdkPocStack`)
@@ -17,3 +18,6 @@ It is a [Maven](https://maven.apache.org/) based project, so you can open this p
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# Cdk-Java
+>>>>>>> bb57633640e97815f01604ae70b2e68ca86e016c
