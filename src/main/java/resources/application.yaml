@@ -1,0 +1,13 @@
+---
+event-catalog:
+  events:
+    -
+      event-name: "quote-event"
+      subscribers:
+        - docs-quote-subscriber
+    -
+      event-name: "policy-event"
+      subscribers:
+        - docs-policy-subscriber
+      # - a-different-subscriber
+      # - yet-another-subscriber

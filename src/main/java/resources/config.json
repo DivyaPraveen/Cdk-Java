@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "eventName": "quote-event",
+      "subscribers": [
+        "docs-quote-subscriber"
+      ]
+    },
+    {
+      "eventName": "policy-event",
+      "subscribers": [
+        "docs-policy-subscriber"
+      ]
+    }
+  ]
+}
